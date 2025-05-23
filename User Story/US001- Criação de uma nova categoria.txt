@@ -1,0 +1,12 @@
+US001 :: Criação de uma nova categoria
+
+Como usuario da aplicação 
+Quero cadastrar novas categorias
+Para vincular seus produtos
+
+Criterios de Aceitação 
+- Deve ter um nome unico
+- A descrição é obrigatoria
+- O nome deve ser alfanumerico em formato string
+- o nome deve ter o maximo de 15 caracteres
+- a descrição deve ter o maximo de 100 caracteres
